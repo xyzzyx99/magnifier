@@ -1,0 +1,356 @@
+{
+   "about": {
+      "message": "Om"
+   },
+   "advancedoptions": {
+      "message": "Avancerade alternativ"
+   },
+   "areyouhappy": {
+      "message": "Är du nöjd med Zoom?"
+   },
+   "basicsettings": {
+      "message": "Grunderna"
+   },
+   "btnreset": {
+      "message": "Återställ"
+   },
+   "changelog": {
+      "message": "Ändringslogg"
+   },
+   "desallscreen": {
+      "message": "För alla skärmstorlekar"
+   },
+   "desallzoom": {
+      "message": "Använd zoomnivån på alla sidor."
+   },
+   "desbadge": {
+      "message": "Visa det aktuella zoomvärdet i Zoom-tilläggets ikon"
+   },
+   "desbrowserextension": {
+      "message": "webbläsartillägg"
+   },
+   "descontextmenu": {
+      "message": "Aktivera högerklicksmenyn för att zooma in eller ut på webbsidan"
+   },
+   "description": {
+      "message": "Zooma in eller ut webbinnehåll med zoom-knapparna för bekvämare läsning."
+   },
+   "desdefaultzoomvalue": {
+      "message": "Välj din standardzoomnivå"
+   },
+   "deslargepopup": {
+      "message": "Visa ett stort popup-fönster"
+   },
+   "desproject": {
+      "message": "projekt"
+   },
+   "desrememberpage": {
+      "message": "Om detta alternativ är aktiverat visas inte påminnelsesidan"
+   },
+   "desremfacebook": {
+      "message": "Rekommendera detta på Facebook"
+   },
+   "desremyoutube": {
+      "message": "Prenumerera på YouTube"
+   },
+   "dessinglescreen": {
+      "message": "För den skärmstorleken"
+   },
+   "deszoombydomain": {
+      "message": "Zooma på domännivå"
+   },
+   "deszoombypage": {
+      "message": "Zooma på webbsidesnivå"
+   },
+   "deszoomchrome": {
+      "message": "Använd den inbyggda webbläsarzoomen"
+   },
+   "deszoomdoubleclick": {
+      "message": "Aktivera alternativet för dubbelklick för att zooma in och enkelt klicka för att zooma ut på webbsidan"
+   },
+   "deszoommousedirectiondown": {
+      "message": "Medurs rullning"
+   },
+   "deszoommousedirectionup": {
+      "message": "Moturs rullning"
+   },
+   "deszoommouseleft": {
+      "message": "Vänster musklick"
+   },
+   "deszoommouseright": {
+      "message": "Höger musklick"
+   },
+   "deszoommousescroll": {
+      "message": "Håll ner 'musknappen' och bläddra upp eller ner för att ändra zoomnivån"
+   },
+   "deszoomsteps": {
+      "message": "Zoomstegen för nästa värde"
+   },
+   "deszoomweb": {
+      "message": "Använd webbens CSS-zoom"
+   },
+   "donatecalltoaction": {
+      "message": "Donera nu!"
+   },
+   "donatepromotext": {
+      "message": "Om du kan göra en donation av valfri storlek, hade jag uppskattat det enormt!"
+   },
+   "donatetext": {
+      "message": "På grund av det mycket lilla antalet donationer kan projektet komma att stängas. Stöd vidareutvecklingen med en donation."
+   },
+   "enjoyshare": {
+      "message": "Njut av detta tillägg och dela det med andra som du tror kommer att uppskatta det."
+   },
+   "friendlyremember": {
+      "message": "Vänlig påminnelse..."
+   },
+   "guide": {
+      "message": "Z välkomstguide"
+   },
+   "help": {
+      "message": "Hjälp"
+   },
+   "lastchecked": {
+      "message": "Senaste version kontrollerad den"
+   },
+   "longdonatetext": {
+      "message": "Jag skulle verkligen uppskatta om du kan donera till mig för att hålla detta webbläsartillägg levande för andra nya användare. Oavsett om det är $$1 eller $$100, uppskattas ditt stöd enormt!"
+   },
+   "name": {
+      "message": "Zoom"
+   },
+   "namechrome": {
+      "message": "Zoom för Google Chrome"
+   },
+   "nameedge": {
+      "message": "Zoom för Microsoft Edge"
+   },
+   "namefirefox": {
+      "message": "Zoom för Firefox"
+   },
+   "nameopera": {
+      "message": "Zoom för Opera"
+   },
+   "namesafari": {
+      "message": "Zoom för Safari"
+   },
+   "nameshort": {
+      "message": "Zoom"
+   },
+   "namewhale": {
+      "message": "Zoom for Naver Whale"
+   },
+   "nothanks": {
+      "message": "Nej tack"
+   },
+   "optionpagetitle": {
+      "message": "Zoom - Inställningar"
+   },
+   "pageatitle": {
+      "message": "Zooma"
+   },
+   "pagehelp": {
+      "message": "hjälp"
+   },
+   "pagestillloading": {
+      "message": "Laddas sidan fortfarande?"
+   },
+   "productshare": {
+      "message": "Dela"
+   },
+   "promocalltoaction": {
+      "message": "Ladda ner det nu!"
+   },
+   "promotext": {
+      "message": "Vill du använda något nytt och fantastiskt för din webbläsare? Prova $product$ Webbläsartillägg.",
+      "placeholders": {
+         "product": {
+            "content": "$1",
+            "example": "Turn Off the Lights"
+         }
+      }
+   },
+   "promotitle": {
+      "message": "Dagens tips"
+   },
+   "ratedes": {
+      "message": "Och låt alla veta om detta fantastiska tillägg!"
+   },
+   "rateitema": {
+      "message": "Ge 5 stjärnor"
+   },
+   "ratetitle": {
+      "message": "Betygsätt och recensera mitt tillägg"
+   },
+   "rememberrate": {
+      "message": "Hastighet"
+   },
+   "reportbug": {
+      "message": "Rapportera ett problem"
+   },
+   "resetbrowserextension": {
+      "message": "Återställ Zoom-inställningarna"
+   },
+   "screenzoomvalue": {
+      "message": "Zoomnivå i procent (t.ex. 80%)"
+   },
+   "settings": {
+      "message": "Inställningar"
+   },
+   "sharemenudonatetitle": {
+      "message": "Gör en donation"
+   },
+   "sharemenupostonfacebook": {
+      "message": "Post on Facebook"
+   },
+   "sharemenuratetitle": {
+      "message": "Betygsätt detta tillägg"
+   },
+   "sharemenusharetitle": {
+      "message": "Dela det här"
+   },
+   "sharemenutellafriend": {
+      "message": "Tipsa en vän"
+   },
+   "sharemenuwelcomeguidetitle": {
+      "message": "Välkomstguide"
+   },
+   "showremember": {
+      "message": "Det visar inte påminnelsesidan när jag öppnar alternativen"
+   },
+   "skipremember": {
+      "message": "Hoppa över detta, och öppna nu alternativsidan"
+   },
+   "tellothers": {
+      "message": "Säkerställ att din åsikt räknas"
+   },
+   "textfoot": {
+      "message": "Denna mjukvara är licensierad under licensen CC-GNU GPL. För att visa en kopia av denna licens, besök"
+   },
+   "titeladd": {
+      "message": "Lägg till"
+   },
+   "titelallzoom": {
+      "message": "Zooma in/ut allt"
+   },
+   "titelbadge": {
+      "message": "Märke"
+   },
+   "titelbadgecolor": {
+      "message": "Välj din bakgrundsmärkesfärg"
+   },
+   "titelcontextmenu": {
+      "message": "Kontextmeny"
+   },
+   "titeldefaultzoomvalue": {
+      "message": "Standardzoomnivå"
+   },
+   "titeldeveloper": {
+      "message": "Utvecklare"
+   },
+   "titeldownloadaaupgrade": {
+      "message": "Uppgraderingen lägger till stöd för att fokusera på valda bilder och kommer att visa ett galleri med bilder på webbplatsen."
+   },
+   "titeldownloadbutton": {
+      "message": "Hämta den här uppgraderingen!"
+   },
+   "titeldownloadupgrade": {
+      "message": "Hela sidan kommer att tonas ned till mörk, så att du kan titta på videon som om du var i biosalongen."
+   },
+   "titeldownloadupgradedatetoday": {
+      "message": "Det här tillägget visar den analoga klockan i menyraden. När du klickar på ikonen visas aktuell tid; månad och veckodag."
+   },
+   "titeldownloadupgradefinancetoolbar": {
+      "message": "Det här visar realtidsinformation om aktiemarknaden."
+   },
+   "titeldownloadupgradefullscreen": {
+      "message": "Med detta tillägg kan du enkelt gå till helskärm. Detta för bild, video och webbsida."
+   },
+   "titeldownloadupgradepropermenubar": {
+      "message": "Lägg tillbaka den svarta menyraden på Googles webbplats."
+   },
+   "titellargepopup": {
+      "message": "Stort fönster"
+   },
+   "titelrememberpage": {
+      "message": "Kom ihåg sida"
+   },
+   "titelremove": {
+      "message": "Ta bort"
+   },
+   "titelreset": {
+      "message": "Återställ inställningar"
+   },
+   "titelrightsreserved": {
+      "message": "Vissa rättigheter förbehållna."
+   },
+   "titelscreen": {
+      "message": "Skärmstorlek"
+   },
+   "titelscreendetect": {
+      "message": "Identifiera skärmstorlek"
+   },
+   "titelsharebutton": {
+      "message": "Delningsknappar"
+   },
+   "titelsharethis": {
+      "message": "Dela detta:"
+   },
+   "titelsync": {
+      "message": "Synkronisera"
+   },
+   "titelsyncbrowser": {
+      "message": "Synkronisera tilläggets inställningar med din andra webbläsare"
+   },
+   "titelupgrade": {
+      "message": "Uppgradera"
+   },
+   "titelwebsite": {
+      "message": "Webbplats"
+   },
+   "titelwelcome": {
+      "message": "Hej och välkommen"
+   },
+   "titelzoomdoubleclick": {
+      "message": "Knappåtgärd"
+   },
+   "titelzoomengine": {
+      "message": "Zoommotor"
+   },
+   "titelzoommousescroll": {
+      "message": "Musbläddring"
+   },
+   "titelzoomsteps": {
+      "message": "Steg"
+   },
+   "titledonatebutton": {
+      "message": "Donera"
+   },
+   "titleshortzoomin": {
+      "message": "Zooma in på den aktuella webbsidan"
+   },
+   "titleshortzoomout": {
+      "message": "Zooma ut på den aktuella webbsidan"
+   },
+   "titleshortzoomreset": {
+      "message": "Återställ zoomvärdet på den aktuella webbsidan"
+   },
+   "translateme": {
+      "message": "Hjälp översätta"
+   },
+   "version": {
+      "message": "Version"
+   },
+   "websitezoomvalue": {
+      "message": "Zoomnivå i procent (t.ex. 80%)"
+   },
+   "welcomebasictext": {
+      "message": "Välkommen till Zoom-webbläsartillägget. Här är en kort video om hur du använder Zoom-tillägget i din webbläsare."
+   },
+   "writeareview": {
+      "message": "Skriv en recension"
+   },
+   "deszoommagszoomsquare": {
+      "message": "Square"
+   }
+}

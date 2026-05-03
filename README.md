@@ -9,3 +9,5 @@
 ### Right click brings up options and zoom levels
 
 ### Rectangular magnifier
+
+### Longer level list
